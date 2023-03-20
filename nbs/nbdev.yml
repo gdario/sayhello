@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "sayhello"
+  site-url: "https://gdario.github.io/sayhello"
+  description: "An exciting Python module that says hello."
+  repo-branch: main
+  repo-url: "https://github.com/gdario/sayhello"
